@@ -1,0 +1,16 @@
+# Ignore build artifacts
+/build/
+/RenameExtension.spec
+
+# In dist/, ignore everything…
+/dist/*
+
+# …except the Windows executable
+!/dist/*.exe
+
+# (Optional) standard Python ignores
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.DS_Store
