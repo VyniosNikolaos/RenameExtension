@@ -5,7 +5,7 @@ A python script that allows the user to rename a group of files with the same ex
 ![Python 3.13]
 ![License MIT]
 
-> Batch-capitalize the first letter of every file & folder in a directory (cross-platform).
+> Batch-replace the extension of every file in a directory (cross-platform).
 
 ## 🚀 Features
 
